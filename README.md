@@ -1,1 +1,1 @@
-# design-patterns-for-agentic-ai
+# agentic-ai-examples
